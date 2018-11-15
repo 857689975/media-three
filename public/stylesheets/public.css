@@ -793,8 +793,7 @@ h6,
     padding: 5px;
     line-height: normal;
     border: solid 1px #ddd;
-    background: #FFF url("../images/a/input_bg.png"/*tpa=http://demo18.mybelove.com/images/a/input_bg.png*/
-    ) repeat-x top;
+    background: #FFF url("../images/a/input_bg.png") repeat-x top;
     _background-image: none;
 }
 
@@ -1211,186 +1210,138 @@ button.btn-large em {
 
 .btn-small-norm,
 button.btn-small-norm em {
-    background: url("../images/a/buttons/btn-small-norm.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-small-norm.png*/
-    ) no-repeat right -30px;
-    _background: url("../images/a/buttons/ie6/btn-small-norm.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-small-norm.gif*/
-    ) no-repeat right -30px;
+    background: url("../images/a/buttons/btn-small-norm.png") no-repeat right -30px;
+    _background: url("../images/a/buttons/ie6/btn-small-norm.gif") no-repeat right -30px;
 }
 
 .btn-small-norm span {
-    background: url("../images/a/buttons/btn-small-norm.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-small-norm.png*/
-    ) no-repeat left 0;
-    _background: url("../images/a/buttons/ie6/btn-small-norm.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-small-norm.gif*/
-    ) no-repeat left 0;
+    background: url("../images/a/buttons/btn-small-norm.png") no-repeat left 0;
+    _background: url("../images/a/buttons/ie6/btn-small-norm.gif") no-repeat left 0;
 }
 
 .btn-small-main,
 button.btn-small-main em {
-    background: url("../images/a/buttons/btn-small-main.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-small-main.png*/
-    ) no-repeat right -30px;
-    _background: url("../images/a/buttons/ie6/btn-small-main.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-small-main.gif*/
-    ) no-repeat right -30px;
+    background: url("../images/a/buttons/btn-small-main.png") no-repeat right -30px;
+    _background: url("../images/a/buttons/ie6/btn-small-main.gif") no-repeat right -30px;
 }
 
 .btn-small-main span {
-    background: url("../images/a/buttons/btn-small-main.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-small-main.png*/
-    ) no-repeat left 0;
-    _background: url("../images/a/buttons/ie6/btn-small-main.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-small-main.gif*/
-    ) no-repeat left 0;
+    background: url("../images/a/buttons/btn-small-main.png") no-repeat left 0;
+    _background: url("../images/a/buttons/ie6/btn-small-main.gif") no-repeat left 0;
 }
 
 .btn-small-assist,
 button.btn-small-assist em {
-    background: url("../images/a/buttons/btn-small-assist.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-small-assist.png*/
-    ) no-repeat right -30px;
-    _background: url("../images/a/buttons/ie6/btn-small-assist.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-small-assist.gif*/
-    ) no-repeat right -30px;
+    background: url("../images/a/buttons/btn-small-assist.png") no-repeat right -30px;
+    _background: url("../images/a/buttons/ie6/btn-small-assist.gif") no-repeat right -30px;
 }
 
 .btn-small-assist span {
-    background: url("../images/a/buttons/btn-small-assist.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-small-assist.png*/
-    ) no-repeat left 0;
-    _background: url("../images/a/buttons/ie6/btn-small-assist.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-small-assist.gif*/
-    ) no-repeat left 0;
+    background: url("../images/a/buttons/btn-small-assist.png") no-repeat left 0;
+    _background: url("../images/a/buttons/ie6/btn-small-assist.gif") no-repeat left 0;
 }
 
 .btn-small-match,
 button.btn-small-match em {
-    background: url("../images/a/buttons/btn-small-match.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-small-match.png*/
-    ) no-repeat right -30px;
-    _background: url("../images/a/buttons/ie6/btn-small-match.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-small-match.gif*/
-    ) no-repeat right -30px;
+    background: url("../images/a/buttons/btn-small-match.png") no-repeat right -30px;
+    _background: url("../images/a/buttons/ie6/btn-small-match.gif") no-repeat right -30px;
 }
 
 .btn-small-match span {
-    background: url("../images/a/buttons/btn-small-match.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-small-match.png*/
-    ) no-repeat left 0;
-    _background: url("../images/a/buttons/ie6/btn-small-match.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-small-match.gif*/
-    ) no-repeat left 0;
+    background: url("../images/a/buttons/btn-small-match.png") no-repeat left 0;
+    _background: url("../images/a/buttons/ie6/btn-small-match.gif") no-repeat left 0;
 }
 
 /*中型按钮*/
 
 .btn-medium-norm,
 button.btn-medium-norm em {
-    background: url("../images/a/buttons/btn-medium-norm.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-medium-norm.png*/
-    ) no-repeat right -38px;
-    _background: url("../images/a/buttons/ie6/btn-medium-norm.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-medium-norm.gif*/
-    ) no-repeat right -38px;
+    background: url("../images/a/buttons/btn-medium-norm.png") no-repeat right -38px;
+    _background: url("../images/a/buttons/ie6/btn-medium-norm.gif") no-repeat right -38px;
 }
 
 .btn-medium-norm span {
-    background: url("../images/a/buttons/btn-medium-norm.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-medium-norm.png*/
-    ) no-repeat left 0;
-    _background: url("../images/a/buttons/ie6/btn-medium-norm.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-medium-norm.gif*/
-    ) no-repeat left 0;
+    background: url("../images/a/buttons/btn-medium-norm.png") no-repeat left 0;
+    _background: url("../images/a/buttons/ie6/btn-medium-norm.gif") no-repeat left 0;
 }
 
 .btn-medium-main,
 button.btn-medium-main em {
-    background: url("../images/a/buttons/btn-medium-main.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-medium-main.png*/
-    ) no-repeat right -38px;
-    _background: url("../images/a/buttons/ie6/btn-medium-main.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-medium-main.gif*/
-    ) no-repeat right -38px;
+    background: url("../images/a/buttons/btn-medium-main.png") no-repeat right -38px;
+    _background: url("../images/a/buttons/ie6/btn-medium-main.gif") no-repeat right -38px;
 }
 
 .btn-medium-main span {
-    background: url("../images/a/buttons/btn-medium-main.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-medium-main.png*/
-    ) no-repeat left 0;
-    _background: url("../images/a/buttons/ie6/btn-medium-main.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-medium-main.gif*/
-    ) no-repeat left 0;
+    background: url("../images/a/buttons/btn-medium-main.png") no-repeat left 0;
+    _background: url("../images/a/buttons/ie6/btn-medium-main.gif") no-repeat left 0;
 }
 
 .btn-medium-assist,
 button.btn-medium-assist em {
-    background: url("../images/a/buttons/btn-medium-assist.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-medium-assist.png*/
-    ) no-repeat right -38px;
-    _background: url("../images/a/buttons/ie6/btn-medium-assist.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-medium-assist.gif*/
-    ) no-repeat right -38px;
+    background: url("../images/a/buttons/btn-medium-assist.png") no-repeat right -38px;
+    _background: url("../images/a/buttons/ie6/btn-medium-assist.gif") no-repeat right -38px;
 }
 
 .btn-medium-assist span {
-    background: url("../images/a/buttons/btn-medium-assist.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-medium-assist.png*/
-    ) no-repeat left 0;
-    _background: url("../images/a/buttons/ie6/btn-medium-assist.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-medium-assist.gif*/
-    ) no-repeat left 0;
+    background: url("../images/a/buttons/btn-medium-assist.png") no-repeat left 0;
+    _background: url("../images/a/buttons/ie6/btn-medium-assist.gif") no-repeat left 0;
 }
 
 .btn-medium-match,
 button.btn-medium-match em {
-    background: url("../images/a/buttons/btn-medium-match.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-medium-match.png*/
-    ) no-repeat right -38px;
-    _background: url("../images/a/buttons/ie6/btn-medium-match.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-medium-match.gif*/
-    ) no-repeat right -38px;
+    background: url("../images/a/buttons/btn-medium-match.png") no-repeat right -38px;
+    _background: url("../images/a/buttons/ie6/btn-medium-match.gif") no-repeat right -38px;
 }
 
 .btn-medium-match span {
-    background: url("../images/a/buttons/btn-medium-match.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-medium-match.png*/
-    ) no-repeat left 0;
-    _background: url("../images/a/buttons/ie6/btn-medium-match.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-medium-match.gif*/
-    ) no-repeat left 0;
+    background: url("../images/a/buttons/btn-medium-match.png") no-repeat left 0;
+    _background: url("../images/a/buttons/ie6/btn-medium-match.gif") no-repeat left 0;
 }
 
 /*大型按钮*/
 
 .btn-large-norm,
 button.btn-large-norm em {
-    background: url("../images/a/buttons/btn-large-norm.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-large-norm.png*/
-    ) no-repeat right -48px;
-    _background: url("../images/a/buttons/ie6/btn-large-norm.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-large-norm.gif*/
-    ) no-repeat right -48px;
+    background: url("../images/a/buttons/btn-large-norm.png") no-repeat right -48px;
+    _background: url("../images/a/buttons/ie6/btn-large-norm.gif") no-repeat right -48px;
 }
 
 .btn-large-norm span {
-    background: url("../images/a/buttons/btn-large-norm.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-large-norm.png*/
-    ) no-repeat left 0;
-    _background: url("../images/a/buttons/ie6/btn-large-norm.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-large-norm.gif*/
-    ) no-repeat left 0;
+    background: url("../images/a/buttons/btn-large-norm.png") no-repeat left 0;
+    _background: url("../images/a/buttons/ie6/btn-large-norm.gif") no-repeat left 0;
 }
 
 .btn-large-main,
 button.btn-large-main em {
-    background: url("../images/a/buttons/btn-large-main.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-large-main.png*/
-    ) no-repeat right -48px;
-    _background: url("../images/a/buttons/ie6/btn-large-main.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-large-main.gif*/
-    ) no-repeat right -48px;
+    background: url("../images/a/buttons/btn-large-main.png") no-repeat right -48px;
+    _background: url("../images/a/buttons/ie6/btn-large-main.gif") no-repeat right -48px;
 }
 
 .btn-large-main span {
-    background: url("../images/a/buttons/btn-large-main.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-large-main.png*/
-    ) no-repeat left 0;
-    _background: url("../images/a/buttons/ie6/btn-large-main.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-large-main.gif*/
-    ) no-repeat left 0;
+    background: url("../images/a/buttons/btn-large-main.png") no-repeat left 0;
+    _background: url("../images/a/buttons/ie6/btn-large-main.gif") no-repeat left 0;
 }
 
 .btn-large-assist,
 button.btn-large-assist em {
-    background: url("../images/a/buttons/btn-large-assist.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-large-assist.png*/
-    ) no-repeat right -48px;
-    _background: url("../images/a/buttons/ie6/btn-large-assist.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-large-assist.gif*/
-    ) no-repeat right -48px;
+    background: url("../images/a/buttons/btn-large-assist.png") no-repeat right -48px;
+    _background: url("../images/a/buttons/ie6/btn-large-assist.gif") no-repeat right -48px;
 }
 
 .btn-large-assist span {
-    background: url("../images/a/buttons/btn-large-assist.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-large-assist.png*/
-    ) no-repeat left 0;
-    _background: url("../images/a/buttons/ie6/btn-large-assist.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-large-assist.gif*/
-    ) no-repeat left 0;
+    background: url("../images/a/buttons/btn-large-assist.png") no-repeat left 0;
+    _background: url("../images/a/buttons/ie6/btn-large-assist.gif") no-repeat left 0;
 }
 
 .btn-large-match,
 button.btn-large-match em {
-    background: url("../images/a/buttons/btn-large-match.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-large-match.png*/
-    ) no-repeat right -48px;
-    _background: url("../images/a/buttons/ie6/btn-large-match.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-large-match.gif*/
-    ) no-repeat right -48px;
+    background: url("../images/a/buttons/btn-large-match.png") no-repeat right -48px;
+    _background: url("../images/a/buttons/ie6/btn-large-match.gif") no-repeat right -48px;
 }
 
 .btn-large-match span {
-    background: url("../images/a/buttons/btn-large-match.png"/*tpa=http://demo18.mybelove.com/images/a/buttons/btn-large-match.png*/
-    ) no-repeat left 0;
-    _background: url("../images/a/buttons/ie6/btn-large-match.gif"/*tpa=http://demo18.mybelove.com/images/a/buttons/ie6/btn-large-match.gif*/
-    ) no-repeat left 0;
+    background: url("../images/a/buttons/btn-large-match.png") no-repeat left 0;
+    _background: url("../images/a/buttons/ie6/btn-large-match.gif") no-repeat left 0;
 }
 
 /*  buttons hover  */
@@ -1621,8 +1572,7 @@ button.btn-large:active em {
     bottom: 0;
     left: 0;
     width: 100%;
-    background: url("../images/a/opa70.png"/*tpa=http://demo18.mybelove.com/images/a/opa70.png*/
-    );
+    background: url("../images/a/opa70.png");
 }
 
 .carousel-info-inner {
@@ -2001,8 +1951,7 @@ button.btn-large:active em {
     *zoom: 1;
     width: 41px;
     height: 41px;
-    background: url("../images/a/icon-detail.gif"/*tpa=http://demo18.mybelove.com/images/a/icon-detail.gif*/
-    ) no-repeat;
+    background: url("../images/a/icon-detail.gif") no-repeat;
     -webkit-transition: -webkit-transform 0.5s ease-out;
     -moz-transition: -moz-transform 0.5s ease-out;
     transition: transform 0.5s ease-out;
@@ -2101,8 +2050,7 @@ button.btn-large:active em {
     overflow: hidden;
     margin-top: 3px;
     background-color: transparent;
-    background-image: url("../images/style-blackRed/direction-s.gif"/*tpa=http://demo18.mybelove.com/images/style-blackRed/direction-s.gif*/
-    );
+    background-image: url("../images/style-blackRed/direction-s.gif");
     background-repeat: no-repeat;
 }
 
@@ -2416,8 +2364,7 @@ button.btn-large:active em {
     top: 0;
     right: 0;
     border-left: 1px solid #666;
-    background: url("../images/a/accordion.gif"/*tpa=http://demo18.mybelove.com/images/a/accordion.gif*/
-    ) no-repeat 0 0;
+    background: url("../images/a/accordion.gif") no-repeat 0 0;
 }
 
 .accordion .current i {
@@ -2470,8 +2417,7 @@ button.btn-large:active em {
 
 .dark-box .accordion .accordion-handle i {
     border-color: #f2f2f2;
-    background-image: url("../images/style-blackRed/accordion-b.gif"/*tpa=http://demo18.mybelove.com/images/style-blackRed/accordion-b.gif*/
-    );
+    background-image: url("../images/style-blackRed/accordion-b.gif");
 }
 
 /* 文章 & 产品 公用
@@ -2552,8 +2498,7 @@ button.btn-large:active em {
     padding-right: 10px;
     font-size: 13px;
     color: #999;
-    background: url("../images/a/style-blackRed/arrow-r.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/arrow-r.gif*/
-    ) no-repeat right center;
+    background: url("../images/a/style-blackRed/arrow-r.gif") no-repeat right center;
 }
 
 .entry-detail:hover {
@@ -2855,8 +2800,7 @@ button.btn-large:active em {
     top: 0;
     left: 0;
     z-index: 11;
-    background: url("../images/a/icon-zoom.png"/*tpa=http://demo18.mybelove.com/images/a/icon-zoom.png*/
-    ) no-repeat center;
+    background: url("../images/a/icon-zoom.png") no-repeat center;
 }
 
 .portfolio-img .icon-video {
@@ -2867,8 +2811,7 @@ button.btn-large:active em {
     top: 0;
     left: 0;
     z-index: 11;
-    background: url("../images/a/skin-icon/icon-video.png"/*tpa=http://demo18.mybelove.com/images/a/skin-icon/icon-video.png*/
-    ) no-repeat center;
+    background: url("../images/a/skin-icon/icon-video.png") no-repeat center;
 }
 
 .portfolio-img a:hover .opacity-overlay {
@@ -2966,8 +2909,7 @@ button.btn-large:active em {
     padding-right: 10px;
     color: #f30;
     font-size: 13px;
-    background: url("../images/a/style-blackRed/arrow-r.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/arrow-r.gif*/
-    ) no-repeat right center;
+    background: url("../images/a/style-blackRed/arrow-r.gif") no-repeat right center;
 }
 
 .portfolio-list .col-4-1 .portfolio-title h2 {
@@ -3072,8 +3014,7 @@ button.btn-large:active em {
     left: 50%;
     margin-left: -28px;
     margin-top: -28px;
-    background: url("../images/a/style-blackRed/icon-link.png"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/icon-link.png*/
-    ) no-repeat center;
+    background: url("../images/a/style-blackRed/icon-link.png") no-repeat center;
     opacity: 0;
     filter: alpha(opacity=0);
     -webkit-transition: -webkit-transform 0.5s ease-out;
@@ -3110,8 +3051,7 @@ button.btn-large:active em {
     z-index: 10;
     display: block;
     overflow: hidden;
-    background-image: url("../images/style-blackRed/post-arrow.gif"/*tpa=http://demo18.mybelove.com/images/style-blackRed/post-arrow.gif*/
-    );
+    background-image: url("../images/style-blackRed/post-arrow.gif");
     background-repeat: no-repeat;
 }
 
@@ -3498,8 +3438,7 @@ button.btn-large:active em {
 
 .detail-file-download li a {
     padding-left: 15px;
-    background: url("../images/a/style-blackRed/icon-dot.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/icon-dot.gif*/
-    ) no-repeat left center;
+    background: url("../images/a/style-blackRed/icon-dot.gif") no-repeat left center;
     font-size: 13px;
     color: #666;
 }
@@ -3604,18 +3543,16 @@ button.btn-large:active em {
     top: 17px;
     right: 0;
     _right: 15px;
-    background: url("../images/a/style-blackRed/page-menu.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/page-menu.gif*/
-    ) no-repeat 0 0;
+    background: url("../images/a/style-blackRed/page-menu.gif") no-repeat 0 0;
 }
 
 .category ul li a:hover {
     text-decoration: none;
-    background-color:transparent;
+    background-color: transparent;
 }
 
 .category ul li:hover i {
-    background-image: url("../images/style-blackRed/page-menu-c.gif"/*tpa=http://demo18.mybelove.com/images/style-blackRed/page-menu-c.gif*/
-    );
+    background-image: url("../images/style-blackRed/page-menu-c.gif");
 }
 
 .category ul ul {
@@ -3636,13 +3573,11 @@ button.btn-large:active em {
 .category ul li ul li a {
     color: #808080;
     padding-left: 10px;
-    background: url("../images/a/style-blackRed/page-menu-sub.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/page-menu-sub.gif*/
-    ) no-repeat left 13px;
+    background: url("../images/a/style-blackRed/page-menu-sub.gif") no-repeat left 13px;
 }
 
 .category ul li ul li a:hover {
-    background: url("../images/a/style-blackRed/page-menu-sub-c.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/page-menu-sub-c.gif*/
-    ) no-repeat left 13px;
+    background: url("../images/a/style-blackRed/page-menu-sub-c.gif") no-repeat left 13px;
 }
 
 .category ul ul li a {
@@ -3663,8 +3598,7 @@ button.btn-large:active em {
 }
 
 .category ul li.current i {
-    background-image: url("../images/style-blackRed/page-menu-c.gif"/*tpa=http://demo18.mybelove.com/images/style-blackRed/page-menu-c.gif*/
-    );
+    background-image: url("../images/style-blackRed/page-menu-c.gif");
 }
 
 .category ul li.current ul {
@@ -3685,8 +3619,7 @@ button.btn-large:active em {
 
 .category ul li.current ul li.current>a {
     color: #e53831;
-    background: url("../images/a/style-blackRed/page-menu-sub-c.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/page-menu-sub-c.gif*/
-    ) no-repeat left 13px;
+    background: url("../images/a/style-blackRed/page-menu-sub-c.gif") no-repeat left 13px;
 }
 
 .sidebar-right .category ul li {
@@ -4001,8 +3934,7 @@ button.btn-large:active em {
     *display: inline;
     *zoom: 1;
     line-height: 20px;
-    background: url("../images/a/style-blackRed/icon-dot.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/icon-dot.gif*/
-    ) no-repeat 0 8px;
+    background: url("../images/a/style-blackRed/icon-dot.gif") no-repeat 0 8px;
 }
 
 .article-list-row li .article-title:hover {
@@ -4027,8 +3959,7 @@ button.btn-large:active em {
 }
 
 .article-list-row li .file-download {
-    background: url("../images/a/style-blackRed/icon-download.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/icon-download.gif*/
-    ) no-repeat left center;
+    background: url("../images/a/style-blackRed/icon-download.gif") no-repeat left center;
     padding-left: 18px;
     font-size: 12px;
     color: #f90;
@@ -4040,8 +3971,7 @@ button.btn-large:active em {
 
 .article-list-row li .file-download-disabled,
 .article-list-row li .file-download-disabled:hover {
-    background: url("../images/a/style-blackRed/icon-download-disabled.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/icon-download-disabled.gif*/
-    ) no-repeat left center;
+    background: url("../images/a/style-blackRed/icon-download-disabled.gif") no-repeat left center;
     color: #666;
     cursor: not-allowed;
 }
@@ -4434,8 +4364,7 @@ button.btn-large:active em {
     *zoom: 1;
     width: 41px;
     height: 41px;
-    background: url("../images/a/style-blackRed/icon-detail.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/icon-detail.gif*/
-    ) no-repeat;
+    background: url("../images/a/style-blackRed/icon-detail.gif") no-repeat;
 }
 
 .product-category-scrollable .category-info .icon-detail span {
@@ -4618,8 +4547,7 @@ button.btn-large:active em {
     *zoom: 1;
     width: 41px;
     height: 41px;
-    background: url("../images/a/style-blackRed/icon-detail.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/icon-detail.gif*/
-    ) no-repeat center;
+    background: url("../images/a/style-blackRed/icon-detail.gif") no-repeat center;
     -webkit-transition: -webkit-transform 0.5s ease-out;
     -moz-transition: -moz-transform 0.5s ease-out;
     transition: transform 0.5s ease-out;
@@ -4745,8 +4673,7 @@ button.btn-large:active em {
     *zoom: 1;
     width: 41px;
     height: 41px;
-    background: url("../images/a/style-blackRed/icon-detail.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/icon-detail.gif*/
-    ) no-repeat center;
+    background: url("../images/a/style-blackRed/icon-detail.gif") no-repeat center;
     -webkit-transition: -webkit-transform 0.5s ease-out;
     -moz-transition: -moz-transform 0.5s ease-out;
     transition: transform 0.5s ease-out;
@@ -4883,8 +4810,7 @@ button.btn-large:active em {
 }
 
 .product-intr .back-category a {
-    background: url("../images/a/skin-icon/icon-back-cate.gif"/*tpa=http://demo18.mybelove.com/images/a/skin-icon/icon-back-cate.gif*/
-    ) no-repeat left center;
+    background: url("../images/a/skin-icon/icon-back-cate.gif") no-repeat left center;
     padding-left: 15px;
     color: #808080;
 }
@@ -4986,8 +4912,7 @@ button.btn-large:active em {
 
 .download-product-detail li a {
     padding-left: 15px;
-    background: url("../images/a/style-blackRed/icon-dot.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/icon-dot.gif*/
-    ) no-repeat left center;
+    background: url("../images/a/style-blackRed/icon-dot.gif") no-repeat left center;
     font-size: 13px;
     color: #999;
 }
@@ -5008,14 +4933,12 @@ button.btn-large:active em {
     right: 15px;
     font-size: 13px;
     color: #ccc;
-    background: url("../images/a/skin-icon/icon-zoom-tips.png"/*tpa=http://demo18.mybelove.com/images/a/skin-icon/icon-zoom-tips.png*/
-    ) no-repeat left center;
+    background: url("../images/a/skin-icon/icon-zoom-tips.png") no-repeat left center;
 }
 
 @media only screen {
     .gallery-zoom-img-wrap .icon-zoom {
-        background-image: url("../images/skin-icon/icon-zoom-tips@2x.png"/*tpa=http://demo18.mybelove.com/images/skin-icon/icon-zoom-tips@2x.png*/
-        );
+        background-image: url("../images/skin-icon/icon-zoom-tips@2x.png");
         background-size: 16px 16px;
     }
 }
@@ -5114,8 +5037,7 @@ button.btn-large:active em {
 
 .link-block-sign a {
     display: block;
-    background: url("../images/a/skin-icon/icon-dot.gif"/*tpa=http://demo18.mybelove.com/images/a/skin-icon/icon-dot.gif*/
-    ) no-repeat 0 8px;
+    background: url("../images/a/skin-icon/icon-dot.gif") no-repeat 0 8px;
     padding-left: 10px;
 }
 
@@ -5448,8 +5370,7 @@ button.btn-large:active em {
     position: absolute;
     top: 22px;
     right: 0px;
-    background: url("../images/a/skin-icon/arrow-section-r.gif"/*tpa=http://demo18.mybelove.com/images/a/skin-icon/arrow-section-r.gif*/
-    ) no-repeat;
+    background: url("../images/a/skin-icon/arrow-section-r.gif") no-repeat;
 }
 
 .link-fixed-side .link-summary .link-summary-content {
@@ -5478,8 +5399,7 @@ button.btn-large:active em {
 .fixed-left .link-fixed-side .link-summary .arrow-section-r {
     right: auto;
     left: 0;
-    background: url("../images/a/skin-icon/arrow-section-l.gif"/*tpa=http://demo18.mybelove.com/images/a/skin-icon/arrow-section-l.gif*/
-    ) no-repeat;
+    background: url("../images/a/skin-icon/arrow-section-l.gif") no-repeat;
 }
 
 .link-justified ul {
@@ -5903,8 +5823,7 @@ button.btn-large:active em {
     position: relative;
     top: 9px;
     margin-left: 10px;
-    background: url("../images/a/style-blackRed/icon-title-d.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/icon-title-d.gif*/
-    ) no-repeat;
+    background: url("../images/a/style-blackRed/icon-title-d.gif") no-repeat;
 }
 
 .module-more-default a {
@@ -6177,8 +6096,7 @@ button.btn-large:active em {
     margin: 40px 0 -35px;
     height: 14px;
     overflow: hidden;
-    background: url("../images/a/style-blackRed/module-divider-full.png"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/module-divider-full.png*/
-    ) no-repeat center;
+    background: url("../images/a/style-blackRed/module-divider-full.png") no-repeat center;
 }
 
 .module-full-screen-gray {
@@ -6219,8 +6137,7 @@ button.btn-large:active em {
 }
 
 .module-full-screen-hl .module-divider-full {
-    background: url("../images/a/style-blackRed/module-divider-full-white.png"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/module-divider-full-white.png*/
-    ) no-repeat center;
+    background: url("../images/a/style-blackRed/module-divider-full-white.png") no-repeat center;
 }
 
 .module-full-screen-bg-img {
@@ -6256,8 +6173,7 @@ button.btn-large:active em {
     width: 97px;
     height: 97px;
     line-height: 97px;
-    background: url("../images/a/style-blackRed/module-full-screen-more-fixed.png"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/module-full-screen-more-fixed.png*/
-    ) no-repeat 0 0;
+    background: url("../images/a/style-blackRed/module-full-screen-more-fixed.png") no-repeat 0 0;
 }
 
 .module-full-screen-more-fixed .module-full-screen-more a:hover {
@@ -6290,13 +6206,11 @@ button.btn-large:active em {
 }
 
 .module-full-screen-gray-expand-box-t .module-full-screen-gray-expand-bg {
-    background: url("../images/a/style-blackRed/module-full-screen-bg-wave-gray-t.png"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/module-full-screen-bg-wave-gray-t.png*/
-    ) no-repeat bottom center;
+    background: url("../images/a/style-blackRed/module-full-screen-bg-wave-gray-t.png") no-repeat bottom center;
 }
 
 .module-full-screen-gray-expand-box-b .module-full-screen-gray-expand-bg {
-    background: url("../images/a/style-blackRed/module-full-screen-bg-wave-gray-b.png"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/module-full-screen-bg-wave-gray-b.png*/
-    ) no-repeat bottom center;
+    background: url("../images/a/style-blackRed/module-full-screen-bg-wave-gray-b.png") no-repeat bottom center;
 }
 
 .module-horizontal {}
@@ -6337,8 +6251,7 @@ button.btn-large:active em {
     width: 20px;
     height: 20px;
     overflow: hidden;
-    background: url("../images/a/style-blackRed/icom-more.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/icom-more.gif*/
-    ) no-repeat center;
+    background: url("../images/a/style-blackRed/icom-more.gif") no-repeat center;
 }
 
 .module-horizontal>.modult-inner>.module-more-horizontal a span {
@@ -6389,8 +6302,7 @@ button.btn-large:active em {
     width: 15px;
     height: 15px;
     overflow: hidden;
-    background: url("../images/a/skin-icon/icon-service-close-btn.gif"/*tpa=http://demo18.mybelove.com/images/a/skin-icon/icon-service-close-btn.gif*/
-    ) no-repeat center;
+    background: url("../images/a/skin-icon/icon-service-close-btn.gif") no-repeat center;
     cursor: pointer;
 }
 
@@ -6467,8 +6379,7 @@ button.btn-large:active em {
 
 .service-max .gotop a span {
     padding-left: 30px;
-    background: url("../images/a/skin-icon/icon-gotop.gif"/*tpa=http://demo18.mybelove.com/images/a/skin-icon/icon-gotop.gif*/
-    ) no-repeat left center;
+    background: url("../images/a/skin-icon/icon-gotop.gif") no-repeat left center;
 }
 
 .service-min {
@@ -6518,8 +6429,7 @@ button.btn-large:active em {
     width: 46px;
     height: 46px;
     overflow: hidden;
-    background: #6b7173 url("../images/skin-icon/icon-gotop.gif"/*tpa=http://demo18.mybelove.com/images/skin-icon/icon-gotop.gif*/
-    ) no-repeat center;
+    background: #6b7173 url("../images/skin-icon/icon-gotop.gif") no-repeat center;
     color: #fff;
     text-decoration: none;
 }
@@ -6718,8 +6628,7 @@ a:hover {
     width: 55px;
     height: 55px;
     overflow: hidden;
-    background: url("../images/a/icon-gotop-fixed.gif"/*tpa=http://demo18.mybelove.com/images/a/icon-gotop-fixed.gif*/
-    ) no-repeat center;
+    background: url("../images/a/icon-gotop-fixed.gif") no-repeat center;
 }
 
 /* ============================= top ============================= */
@@ -6807,13 +6716,13 @@ a:hover {
     position: absolute;
     top: 7px;
     left: -30px;
-    background: url("../images/a/language-bg.png"/*tpa=http://demo18.mybelove.com/images/a/language-bg.png*/
-    ) no-repeat left center;
+    background: url("../images/a/language-bg.png") no-repeat left center;
 }
 
 /* logo */
 
 .logo img {
+    margin: 10px;
     display: block;
 }
 
@@ -6846,13 +6755,11 @@ a:hover {
     overflow: hidden;
     border: none;
     cursor: pointer;
-    background: #fff url("../images/style-blackRed/search-icon-n.png"/*tpa=http://demo18.mybelove.com/images/style-blackRed/search-icon-n.png*/
-    ) no-repeat center;
+    background: #fff url("../images/style-blackRed/search-icon-n.png") no-repeat center;
 }
 
 .top-search .search-form .form-btn:hover {
-    background: #f30 url("../images/style-blackRed/search-icon-h.png"/*tpa=http://demo18.mybelove.com/images/style-blackRed/search-icon-h.png*/
-    ) no-repeat center;
+    background: #f30 url("../images/style-blackRed/search-icon-h.png") no-repeat center;
 }
 
 .top-search .search-form .form-btn span {
@@ -6961,8 +6868,7 @@ a:hover {
     height: 90px;
     line-height: 90px;
     padding-left: 20px;
-    background: url("../images/a/style-blackRed/icon-lang.png"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/icon-lang.png*/
-    ) no-repeat left center;
+    background: url("../images/a/style-blackRed/icon-lang.png") no-repeat left center;
 }
 
 .header-v1 .language .first-level span em {
@@ -6975,8 +6881,7 @@ a:hover {
     height: 6px;
     right: 20px;
     top: 4.1em;
-    background: url("../images/a/select.gif"/*tpa=http://demo18.mybelove.com/images/a/select.gif*/
-    ) no-repeat;
+    background: url("../images/a/select.gif") no-repeat;
 }
 
 .header-v1 .language em {
@@ -7104,8 +7009,7 @@ a:hover {
 
 .header-v1 .main-nav .sf-sub-indicator {
     display: none;
-    background-image: url("../images/superfish-arrows-white.gif"/*tpa=http://demo18.mybelove.com/images/superfish-arrows-white.gif*/
-    );
+    background-image: url("../images/superfish-arrows-white.gif");
 }
 
 .header-v1 .main-nav .first-level {
@@ -7299,8 +7203,7 @@ a:hover {
 }
 
 .header-v2 .main-nav .sf-sub-indicator {
-    background-image: url("../images/superfish-arrows-white.gif"/*tpa=http://demo18.mybelove.com/images/superfish-arrows-white.gif*/
-    );
+    background-image: url("../images/superfish-arrows-white.gif");
 }
 
 .header-v2 .main-nav .sf-menu .first-level {
@@ -7449,8 +7352,7 @@ a:hover {
 
 .header-v3 .nav {
     height: 46px;
-    background: #f30 url("../images/style-blackRed/header-v3-bg.jpg"/*tpa=http://demo18.mybelove.com/images/style-blackRed/header-v3-bg.jpg*/
-    ) no-repeat center;
+    background: #f30 url("../images/style-blackRed/header-v3-bg.jpg") no-repeat center;
 }
 
 .header-v3 .main-nav .sf-menu a,
@@ -7502,8 +7404,7 @@ a:hover {
 }
 
 .header-v3 .main-nav .sf-sub-indicator {
-    background-image: url("../images/superfish-arrows-white.gif"/*tpa=http://demo18.mybelove.com/images/superfish-arrows-white.gif*/
-    );
+    background-image: url("../images/superfish-arrows-white.gif");
 }
 
 .header-v3 .main-nav .sf-menu .first-level {
@@ -7670,8 +7571,7 @@ a:hover {
 }
 
 .header-v4 .main-nav .sf-sub-indicator {
-    background-image: url("../images/superfish-arrows-header-v4.gif"/*tpa=http://demo18.mybelove.com/images/superfish-arrows-header-v4.gif*/
-    );
+    background-image: url("../images/superfish-arrows-header-v4.gif");
 }
 
 .header-v4 .main-nav .first-level {
@@ -7818,8 +7718,7 @@ a:hover {
     width: 9px;
     height: 6px;
     top: 1em;
-    background: url("../images/a/lang-select.gif"/*tpa=http://demo18.mybelove.com/images/a/lang-select.gif*/
-    ) no-repeat;
+    background: url("../images/a/lang-select.gif") no-repeat;
 }
 
 .header-v5 .language .sf-menu li li a {
@@ -7883,8 +7782,7 @@ a:hover {
 }
 
 .header-v5 .main-nav .sf-sub-indicator {
-    background-image: url("../images/superfish-arrows-white.gif"/*tpa=http://demo18.mybelove.com/images/superfish-arrows-white.gif*/
-    );
+    background-image: url("../images/superfish-arrows-white.gif");
 }
 
 .header-v5 .main-nav .sf-menu .first-level {
@@ -8003,8 +7901,7 @@ a:hover {
     height: 40px;
     line-height: 40px;
     color: #fff;
-    background: url("../images/a/style-blackRed/breadcrumbs-bg.png"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/breadcrumbs-bg.png*/
-    );
+    background: url("../images/a/style-blackRed/breadcrumbs-bg.png");
 }
 
 .breadcrumbs-wrapper .breadcrumbs a {
@@ -8054,8 +7951,7 @@ a:hover {
 
 .page-title-inner .breadcrumbs {
     padding-left: 16px;
-    background: url("../images/skin-icon/icon-home.png"/*tpa=http://demo18.mybelove.com/images/skin-icon/icon-home.png*/
-    ) no-repeat left center;
+    background: url("../images/skin-icon/icon-home.png") no-repeat left center;
 }
 
 .page-menu {
@@ -8122,8 +8018,7 @@ a:hover {
     top: 17px;
     right: 0;
     _right: 15px;
-    background: url("../images/a/style-blackRed/page-menu.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/page-menu.gif*/
-    ) no-repeat 0 0;
+    background: url("../images/a/style-blackRed/page-menu.gif") no-repeat 0 0;
 }
 
 .page-menu-content ul li a:hover {
@@ -8132,8 +8027,7 @@ a:hover {
 }
 
 .page-menu-content ul li:hover i {
-    background-image: url("../images/style-blackRed/page-menu-c.gif"/*tpa=http://demo18.mybelove.com/images/style-blackRed/page-menu-c.gif*/
-    );
+    background-image: url("../images/style-blackRed/page-menu-c.gif");
 }
 
 .page-menu-content ul ul {
@@ -8154,13 +8048,11 @@ a:hover {
 .page-menu-content ul li ul li a {
     color: #808080;
     padding-left: 10px;
-    background: url("../images/a/style-blackRed/page-menu-sub.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/page-menu-sub.gif*/
-    ) no-repeat left 13px;
+    background: url("../images/a/style-blackRed/page-menu-sub.gif") no-repeat left 13px;
 }
 
 .page-menu-content ul li ul li a:hover {
-    background: url("../images/a/style-blackRed/page-menu-sub-c.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/page-menu-sub-c.gif*/
-    ) no-repeat left 13px;
+    background: url("../images/a/style-blackRed/page-menu-sub-c.gif") no-repeat left 13px;
 }
 
 .page-menu-content ul ul li a {
@@ -8181,8 +8073,7 @@ a:hover {
 }
 
 .page-menu-content ul li.current i {
-    background-image: url("../images/style-blackRed/page-menu-c.gif"/*tpa=http://demo18.mybelove.com/images/style-blackRed/page-menu-c.gif*/
-    );
+    background-image: url("../images/style-blackRed/page-menu-c.gif");
 }
 
 .page-menu-content ul li.current ul {
@@ -8203,8 +8094,7 @@ a:hover {
 
 .page-menu-content ul li.current ul li.current>a {
     color: #e53831;
-    background: url("../images/a/style-blackRed/page-menu-sub-c.gif"/*tpa=http://demo18.mybelove.com/images/a/style-blackRed/page-menu-sub-c.gif*/
-    ) no-repeat left 13px;
+    background: url("../images/a/style-blackRed/page-menu-sub-c.gif") no-repeat left 13px;
 }
 
 .sidebar-right .page-menu-content ul li {
@@ -8608,8 +8498,7 @@ a:hover {
     width: 50px;
     height: 50px;
     overflow: hidden;
-    background: #808080 url("../images/skin-icon/icon-close.gif"/*tpa=http://demo18.mybelove.com/images/skin-icon/icon-close.gif*/
-    ) no-repeat center;
+    background: #808080 url("../images/skin-icon/icon-close.gif") no-repeat center;
 }
 
 .popup-close-btn a:hover {
@@ -8665,8 +8554,7 @@ a:hover {
 /* ============================= page-loading-cover ============================= */
 
 .page-cover {
-    background: #333 url("../../demo18.mybelove.com.img.800cdn.com/images/loading.gif"/*tpa=http://demo18.mybelove.com/images/loading.gif*/
-    ) no-repeat center 350px;
+    background: #333 url("../../demo18.mybelove.com.img.800cdn.com/images/loading.gif") no-repeat center 350px;
     width: 100%;
     height: 0;
     position: absolute;
@@ -8928,23 +8816,19 @@ a:hover {
 }
 
 .touch-toggle .touch-icon-language {
-    background-image: url("../images/skin-icon/touch-icon-language.png"/*tpa=http://demo18.mybelove.com/images/skin-icon/touch-icon-language.png*/
-    );
+    background-image: url("../images/skin-icon/touch-icon-language.png");
 }
 
 .touch-toggle .touch-icon-user {
-    background-image: url("../images/skin-icon/touch-icon-user.png"/*tpa=http://demo18.mybelove.com/images/skin-icon/touch-icon-user.png*/
-    );
+    background-image: url("../images/skin-icon/touch-icon-user.png");
 }
 
 .touch-toggle .touch-icon-search {
-    background-image: url("../images/skin-icon/touch-icon-search.png"/*tpa=http://demo18.mybelove.com/images/skin-icon/touch-icon-search.png*/
-    );
+    background-image: url("../images/skin-icon/touch-icon-search.png");
 }
 
 .touch-toggle .touch-icon-menu {
-    background-image: url("../images/a/touch-icon-menu.png"/*tpa=http://demo18.mybelove.com/images/a/touch-icon-menu.png*/
-    );
+    background-image: url("../images/a/touch-icon-menu.png");
 }
 
 .touch-toggle li span {
@@ -9011,8 +8895,7 @@ a:hover {
     height: 42px;
     overflow: hidden;
     cursor: pointer;
-    background: url("../images/a/skin-icon/touch-icon-search-w.png"/*tpa=http://demo18.mybelove.com/images/a/skin-icon/touch-icon-search-w.png*/
-    ) no-repeat center;
+    background: url("../images/a/skin-icon/touch-icon-search-w.png") no-repeat center;
     background-size: 16px 16px;
 }
 
@@ -9054,18 +8937,15 @@ a:hover {
 
 .touch-menu ul li i.touch-arrow-right {
     display: none;
-    background-image: url("../images/skin-icon/touch-arrow-r.png"/*tpa=http://demo18.mybelove.com/images/skin-icon/touch-arrow-r.png*/
-    );
+    background-image: url("../images/skin-icon/touch-arrow-r.png");
 }
 
 .touch-menu ul li i.touch-arrow-down {
-    background-image: url("../images/skin-icon/touch-arrow-d.png"/*tpa=http://demo18.mybelove.com/images/skin-icon/touch-arrow-d.png*/
-    );
+    background-image: url("../images/skin-icon/touch-arrow-d.png");
 }
 
 .touch-menu ul li i.touch-arrow-up {
-    background-image: url("../images/skin-icon/touch-arrow-u.png"/*tpa=http://demo18.mybelove.com/images/skin-icon/touch-arrow-u.png*/
-    );
+    background-image: url("../images/skin-icon/touch-arrow-u.png");
 }
 
 .touch-menu ul ul {
